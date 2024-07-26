@@ -46,5 +46,4 @@ async function promptUser() {
     }
 }
 
-// Run the prompt
 promptUser();
